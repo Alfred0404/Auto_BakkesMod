@@ -1,6 +1,8 @@
 import os
 import psutil
 
+#? Python script that checks if Rocket League is running and if BakkesMod is running, if not it runs BakkesMod
+#? Use this to always play Rocket League with BakkesMod without having to open BakkesMod manually
 
 #! --------------------- VARIABLES --------------------- #
 
