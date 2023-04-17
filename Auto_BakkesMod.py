@@ -1,7 +1,7 @@
 import os
 import psutil
 
-#blablabla
+
 #! --------------------- VARIABLES --------------------- #
 
 #* ----- paths
